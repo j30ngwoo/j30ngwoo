@@ -1,7 +1,8 @@
 ### 방방햄🐹
 # ☠071 뿌수기☠
-#### Konkuk Univ. System Biotech. 2021.
-#### Konkuk Univ. SICT. 2022 ~
+Konkuk Univ. System Biotech 2021.03 ~ 2021.12
+Konkuk Univ. SICT. 2022.03 ~
+
 <!--
 **j30ngwoo/j30ngwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

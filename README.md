@@ -1,7 +1,7 @@
 ### 방방햄🐹
 # ☠071 뿌수기☠
 
-Konkuk Univ. System Biotech 2021.03 ~ 2021.12
+Konkuk Univ. System Biotech. 2021.03 ~ 2021.12
 
 Konkuk Univ. SICT. 2022.03 ~
 

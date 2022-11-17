@@ -5,6 +5,10 @@ Konkuk Univ. System Biotech. 2021.03 ~ 2021.12
 
 Konkuk Univ. SICT. 2022.03 ~
 
+
+<a href="https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"/></a>
+
+
 <!--
 **j30ngwoo/j30ngwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

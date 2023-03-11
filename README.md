@@ -1,11 +1,14 @@
 ### 방방햄🐹
 # ☠071 뿌수기☠
 
-Konkuk Univ. System Biotech. 2021.03 ~ 2021.12
+Konkuk Univ. System Biotech.  
+2021.03 ~ 2021.12
 
-Konkuk Univ. SICT. 2022.03 ~  
+Konkuk Univ. SICT.  
+2022.03 ~  
 
-Cadet in <img src="https://img.shields.io/badge/Seoul-000000?style=flat-square&&logo=42&logoColor=white"> 2023.03 ~
+Cadet in <img src="https://img.shields.io/badge/SEOUL-000000?style=flat-square&&logo=42&logoColor=white">  
+2023.03 ~
 
 
 

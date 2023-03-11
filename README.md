@@ -5,7 +5,7 @@ Konkuk Univ. System Biotech. 2021.03 ~ 2021.12
 
 Konkuk Univ. SICT. 2022.03 ~  
 
-Cadet in <img src="https://img.shields.io/badge/42-000000?style=flat-square&&logo=42&logoColor=white"> 2023.03 ~
+Cadet in <img src="https://img.shields.io/badge/-000000?style=flat-square&&logo=42&logoColor=white"> 2023.03 ~
 
 
 

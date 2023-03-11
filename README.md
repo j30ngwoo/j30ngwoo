@@ -5,7 +5,7 @@ Konkuk Univ. System Biotech. 2021.03 ~ 2021.12
 
 Konkuk Univ. SICT. 2022.03 ~  
 
-
+42Seoul Cadet 2023.03 ~
 
 
 

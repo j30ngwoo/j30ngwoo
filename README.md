@@ -4,7 +4,7 @@
 Konkuk Univ. SICT.  
 2022. 03 ~  
 
-Leaning in 42SEOUL
+Leaning in 42SEOUL.
 2023. 03. 13. ~
 
 <a href="https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"></a> <a href="https://velog.io/@j30ngwoo"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&logoColor=#20C997&link=https://velog.io/@j30ngwoo"></a>

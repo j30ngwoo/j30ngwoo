@@ -2,7 +2,7 @@
 # ☠071 뿌수기☠
 
 Konkuk Univ. SICT.  
-2022. 03 ~  
+2022. 03. ~  
 
 Leaning in 42SEOUL  
 2023. 03. 13. ~  

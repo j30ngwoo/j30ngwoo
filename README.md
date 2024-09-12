@@ -4,7 +4,7 @@
 Konkuk Univ. SICT.  
 2022. 03. ~  
 
-42SEOUL 9th Cadet
+42SEOUL 9th Cadet.
 2023. 03. ~  2024. 01
 
 <a href="https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"></a>

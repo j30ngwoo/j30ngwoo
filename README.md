@@ -1,4 +1,3 @@
-### 방방햄🐹
 # ☠071 뿌수기☠
 
 Konkuk Univ. SICT.  

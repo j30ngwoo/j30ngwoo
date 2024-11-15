@@ -4,7 +4,7 @@ Konkuk Univ. SICT.
 [42 SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet  
 2023. 03. ~  2024. 01
 
-건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor(운영진)  
+건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor  
 2023.03 ~ 2023.07
 
 <a href="https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/2b896c0fcee14adb999bf86f3f274467"></a>

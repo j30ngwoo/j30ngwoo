@@ -1,17 +1,17 @@
-Konkuk Univ. SICT.  
-2022. 03. ~  
+**Konkuk Univ. SICT.**  
+2022\. 03\. ~  
 
-[42 SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet  
-2023. 03. ~  2024. 01
+**[42 SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet**  
+2023\. 03\. ~  2024\. 01\.
 
-건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor  
-2023.03 ~ 2023.07
+**건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor**  
+2023\. 03\. ~ 2023\. 07\.
 
 
-개발 블로그  
+### 개발 블로그  
 <a href="https://j30ngwoo.tistory.com"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white&link=https://j30ngwoo.tistory.com"></a>
 
-알고리즘 문제 풀이 (2024년 10월 이후 티스토리로 병합)  
+### 
 <a href="https://velog.io/@j30ngwoo"><img src="https://img.shields.io/badge/Velog-ffffff?style=flat-square&logo=Velog&logoColor=#20C997&link=https://velog.io/@j30ngwoo"></a>
 
 

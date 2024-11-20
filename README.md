@@ -1,7 +1,7 @@
 **Konkuk Univ. SICT.**  
 2022\. 03\. ~  
 
-**[42 SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet**  
+**[42SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet**  
 2023\. 03\. ~  2024\. 01\.
 
 **건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor**  

@@ -1,3 +1,5 @@
+## 🌌 Activities
+
 **Konkuk Univ. SICT.**  
 2022\. 03\. ~  
 
@@ -7,10 +9,13 @@
 **건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor**  
 2023\. 03\. ~ 2023\. 07\.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=j30ngwoo&show_icons=true&theme=tokyonight&count_private=true)
 
-### 개발 블로그  
-<a href="https://j30ngwoo.tistory.com"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white&link=https://j30ngwoo.tistory.com"></a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j30ngwoo&theme=tokyonight)
 
+## ✍ Blog
+<a href="https://j30ngwoo.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white" />
 
 <!--
 **j30ngwoo/j30ngwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

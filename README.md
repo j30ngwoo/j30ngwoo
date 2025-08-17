@@ -11,7 +11,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=j30ngwoo&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j30ngwoo&theme=tokyonight)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttangle1234)](https://solved.ac/ttangle1234/)
 
 ## ✍ Blog
 <a href="https://j30ngwoo.tistory.com">

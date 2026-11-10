@@ -1,33 +1,29 @@
-## 🌌 Activities
+## 김정우
 
-**Konkuk Univ. SICT.**  
-2022\. 03\. ~  
+### 경력
 
-**[42SEOUL](https://42seoul.kr/seoul42/main/view) 9th Cadet**  
-2023\. 03\. ~  2024\. 01\.
+**넛지헬스케어(캐시워크)** 백엔드 엔지니어 · 2025.11 ~ 현재
 
-**건국대학교 컴퓨터공학부 알고리즘 동아리 AlKon Mentor**  
-2023\. 03\. ~ 2023\. 07\.
+### 기술
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=j30ngwoo&show_icons=true&theme=tokyonight&count_private=true)
+TypeScript, NestJS, Prisma, MySQL, PostgreSQL(Aurora), Redis, AWS(Elastic Beanstalk, RDS, S3, Glue, CloudFront)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttangle1234)](https://solved.ac/ttangle1234/)
+입사 전에는 Java, Spring Boot, JPA로 개인 프로젝트를 했습니다.
 
-## ✍ Blog
-<a href="https://j30ngwoo.tistory.com">
-<img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=Tistory&logoColor=white" />
+### 개인 프로젝트
 
-<!--
-**j30ngwoo/j30ngwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| 프로젝트 | 내용 | 기술 |
+|---|---|---|
+| [Server-timer](https://github.com/j30ngwoo/Server-timer) | 응답 헤더의 초 단위 시각만으로 서버 시각을 ms 단위까지 추정하는 타이머 | Python |
+| [scheduler](https://github.com/j30ngwoo/scheduler) | 학생회 상근 시간표를 자동으로 짜 주는 서비스. 학생회에서 실제로 사용 | Java, Spring Boot, JPA, MySQL, Docker |
+| 홈 서버 | Ubuntu, Nginx, Docker로 개인 서비스를 운영하는 서버 | Linux, Nginx, Docker |
 
-Here are some ideas to get you started:
+### 학력·활동
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 건국대학교 스마트ICT융합공학과
+- 42서울 9기 (2023.03 ~ 2024.01)
+- 알고리즘 학원 강사 (2023.09 ~ 2025.08)
+- 2024 건국대 프로그래밍 경진대회(KUPC) 은상, 2025 프로그래머스 코드챌린지 본선
+- 정보처리기사, SQLD
+
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=ttangle1234)](https://solved.ac/ttangle1234/)
